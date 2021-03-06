@@ -68,7 +68,6 @@ def main(qname='questions.txt', sname='sorted.txt', wname='weights.dat'):
     # Loop over questions to ask.
     n = 0
     while True:
-        print(wgts)
         n += 1
         i = nextq()
         Q = questions[i]
