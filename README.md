@@ -12,12 +12,12 @@ Good luck with your test!
 
 ## Instructions
 
-To make a local copy of the questions and python script use:
+To make a local copy of the questions and python script download and expand this [zip file](https://github.com/dkirkby/civics/archive/1.0.zip) or use:
 ```
 git clone https://github.com/dkirkby/civics.git
 cd civics
 ```
-To run the script use:
+To run the script, open a terminal window and type:
 ```
 python civics.py
 ```
